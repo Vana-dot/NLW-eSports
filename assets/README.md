@@ -8,7 +8,7 @@ Projeto desenvolvido no evento  da Rocketseat
 
 ![App Screenshot](./assets/print-tela.png)
 
-## Tecnologias
+## 💻 Tecnologias
 
 - HTML
 - CSS
