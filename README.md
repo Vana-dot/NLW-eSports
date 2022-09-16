@@ -4,4 +4,4 @@ Projeto desenvolvido no evento  da Rocketseat
 
 ## Screenshots
 
-![App Screenshot](./assets/print_tela.png)
+![App Screenshot](./assets/print-tela.png)
