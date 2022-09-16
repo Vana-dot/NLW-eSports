@@ -2,7 +2,7 @@
 
 > Trilha explorer
 
-Projeto desenvolvido no evento  da Rocketseat
+Projeto desenvolvido no evento da Rocketseat
 
 ## Screenshots
 
